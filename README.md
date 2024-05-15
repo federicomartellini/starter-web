@@ -8,7 +8,9 @@ This is an example to show how different parts of git repository and various com
 
 ## Deployment
 
+This is a simple web project.
+
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.
 
