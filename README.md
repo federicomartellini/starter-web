@@ -14,3 +14,6 @@ This is a simple web project.
 
 Sample website with plenty of files for demos.
 
+## Copyright
+
+BdC production
