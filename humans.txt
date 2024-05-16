@@ -1,4 +1,10 @@
+#humans.txt
+#The Humans responsible & technology colophon
 
+#TEAM
 
+	Federico Martellini   federico.martellini1@gmail.com	@notweet
 
-Federico Martellini   federico.martellini1@gmail.com	@notweet
+#THANKS
+	
+	All my students!
