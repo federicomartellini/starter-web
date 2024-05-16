@@ -21,4 +21,4 @@ Sample website with plenty of files for demos.
 
 ## Copyright
 
-BdC production
+BdC production. All right reserved.
